@@ -1,0 +1,6 @@
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+debian/droidian-berb-apt-config-testing.substvars
+debian/droidian-berb-apt-config-testing/
+out-droidian-berb-apt-config-testing/
