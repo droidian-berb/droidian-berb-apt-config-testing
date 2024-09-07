@@ -1,0 +1,6 @@
+Architectures: arm64,amd64,all
+Components: main
+Suites: testing
+Uris:  https://droidian-berb.github.io/apt-repo-droidian-berb
+Types: deb
+Signed-By: /etc/apt/trusted.gpg.d/droidian-berb-apt.gpg
