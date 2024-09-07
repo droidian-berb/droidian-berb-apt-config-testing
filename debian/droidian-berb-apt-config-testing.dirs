@@ -1,0 +1,4 @@
+/usr/share/droidian-berb-apt-config/preferences.d
+/usr/share/droidian-berb-apt-config/sources.list.d
+/etc/apt/sources.list.d
+/etc/apt/preferences.d

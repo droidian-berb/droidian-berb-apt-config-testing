@@ -1,0 +1,15 @@
+Source: droidian-berb-apt-config-testing
+Maintainer: berbascum <berbascum@ticv.cat>
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 10),
+               debhelper-compat (= 13),
+Standards-Version: 4.5.0.3
+
+Package: droidian-berb-apt-config-testing
+Architecture: all
+Pre-Depends: apt,
+Depends: ${misc:Depends},
+         ca-certificates,
+         droidian-berb-apt-keyrings,
+Description: APT configs for droidian-berb github testing apt repo
