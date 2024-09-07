@@ -1,0 +1,6 @@
+droidian-berb-apt-config-testing (1+git20240908013448.4ec1ef6.trixie) trixie; urgency=medium
+
+  [berbascum]
+  * (4ec1ef6) (pkg_rootfs) add: package files 
+
+ -- berbascum <berbascum@ticv.cat>  Sun, 08 Sep 2024 01:34:48 +0200
